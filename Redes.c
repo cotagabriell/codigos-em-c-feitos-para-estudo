@@ -28,7 +28,6 @@ float random_float(){
 
 void popularRedeSocialAleatoriamente(float P, int M[][NUM_PESSOAS]){
     
-    int num[NUM_PESSOAS];
     int a = 0;
     int A[NUM_PESSOAS] = {0};
     
